@@ -1,0 +1,6 @@
+Apple
+https://developer.apple.com/documentation/applemusicapi/get_multiple_catalog_songs_by_isrc
+
+Spotify
+https://developer.spotify.com/console/search/
+
